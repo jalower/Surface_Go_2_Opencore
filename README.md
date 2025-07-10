@@ -10,10 +10,15 @@ For Core m3-8100Y Microsoft Surface Go 2 please visit [jlempen's OpenCore files]
 
 # What is confirmed to be working from me
 Battery is fixed and is able to show in menu bar
+
 The icons and graphics for booting screen is enabled and working.
+
 Audio is working
+
 iServices are working for me (e.g. iCloud, iMessages....)
+
 DRM is fixed
+
 The wifi card (Intel AX200) works in macOS
 
 # Issues from atisDU that are unsure
