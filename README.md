@@ -12,11 +12,15 @@ It is able to turn on Bluetooth now, able to conncet to Airpods Pro 2, but the c
 
 Able to pair with my iPhone, but unable to connet due to the error of " (Device) is unsupported"
 
+Screen mirroring
+
 Brightness control
 
 Trackpad scrolling
 
 # What is confirmed to be working from me
+Sleep is working
+
 Battery is fixed and is able to show in menu bar
 
 The icons and graphics for booting screen is enabled and working.
