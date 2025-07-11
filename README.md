@@ -20,7 +20,9 @@ Brightness control
 
 Trackpad scrolling
 
-# What is confirmed to be working from me
+# What is fixed and confirmed to be working
+Siri is working
+
 Sleep is working
 
 Battery is fixed and is able to show in menu bar
