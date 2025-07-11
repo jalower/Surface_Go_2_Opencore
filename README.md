@@ -8,6 +8,8 @@ The latest macOS Version running is Monterey 12.7.4
 For Core m3-8100Y Microsoft Surface Go 2 please visit [jlempen's OpenCore files](https://github.com/jlempen/Surface-Go-2-OpenCore).
 
 # Issues pending to fix
+Camera not working
+
 It is able to turn on Bluetooth now, able to conncet to Airpods Pro 2, but the connection is unstable.
 
 Able to pair with my iPhone, but unable to connet due to the error of " (Device) is unsupported"
