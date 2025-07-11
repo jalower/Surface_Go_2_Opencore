@@ -10,6 +10,8 @@ For Core m3-8100Y Microsoft Surface Go 2 please visit [jlempen's OpenCore files]
 # Issues pending to fix
 Bluetooth
 
+Brightness control
+
 Trackpad scrolling
 
 # What is confirmed to be working from me
