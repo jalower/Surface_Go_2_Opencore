@@ -10,6 +10,8 @@ For Core m3-8100Y Microsoft Surface Go 2 please visit [jlempen's OpenCore files]
 # Issues pending to fix
 Bluetooth
 
+Trackpad scrolling
+
 # What is confirmed to be working from me
 Battery is fixed and is able to show in menu bar
 
