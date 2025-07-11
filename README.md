@@ -18,7 +18,7 @@ Screen mirroring
 
 Brightness control
 
-Trackpad scrolling
+Trackpad gesture
 
 # What is fixed and confirmed to be working
 Siri is working
