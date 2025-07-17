@@ -7,6 +7,9 @@ The latest macOS Version running is Monterey 12.7.4
 
 For Core m3-8100Y Microsoft Surface Go 2 please visit [jlempen's OpenCore files](https://github.com/jlempen/Surface-Go-2-OpenCore).
 
+# Surface-Go-2-OpenCore-Linux-DualBoot
+For the same model, if you want to dual boot linux, please use this efi files instead https://github.com/jalower/Surface-Go-2-Hackintosh-Linux-Dualboot
+
 # Important!!!!!
 Please add your own serial number and UUID by using Gen SMBIOS in this guide https://dortania.github.io/OpenCore-Install-Guide/config.plist/#creating-your-config-plist
 
